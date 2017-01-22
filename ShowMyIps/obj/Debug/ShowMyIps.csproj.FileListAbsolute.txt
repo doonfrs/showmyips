@@ -1,0 +1,17 @@
+c:\users\firas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmMain.resources
+c:\users\firas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ShowMyIps.Properties.Resources.resources
+c:\users\firas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ShowMyIps.csproj.GenerateResource.Cache
+c:\users\firas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ShowMyIps.exe.config
+c:\users\firas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ShowMyIps.exe
+c:\users\firas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ShowMyIps.pdb
+c:\users\firas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ShowMyIps.exe
+c:\users\firas\documents\visual studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\ShowMyIps.pdb
+D:\Projects\showmyips\ShowMyIps\bin\Debug\ShowMyIps.exe.config
+D:\Projects\showmyips\ShowMyIps\obj\Debug\ShowMyIps.exe
+D:\Projects\showmyips\ShowMyIps\obj\Debug\ShowMyIps.pdb
+D:\Projects\showmyips\ShowMyIps\bin\Debug\ShowMyIps.exe
+D:\Projects\showmyips\ShowMyIps\bin\Debug\ShowMyIps.pdb
+D:\Projects\showmyips\ShowMyIps\obj\Debug\ShowMyIps.csprojResolveAssemblyReference.cache
+D:\Projects\showmyips\ShowMyIps\obj\Debug\WindowsFormsApplication1.frmMain.resources
+D:\Projects\showmyips\ShowMyIps\obj\Debug\ShowMyIps.Properties.Resources.resources
+D:\Projects\showmyips\ShowMyIps\obj\Debug\ShowMyIps.csproj.GenerateResource.Cache

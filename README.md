@@ -1,2 +1,3 @@
 # showmyips
-Show My Local Nic IP list and allow to copy, for people who are suffering from entering network settings or using ip config like me :)
+If you change the network too many times, and you need the ip to re-configure your connected applications (like android app in debugging time)
+This will make your life easier :).
