@@ -5,3 +5,6 @@ This will make your life easier :).
 
 # Fast Download
 https://github.com/doonfrs/showmyips/blob/master/ShowMyIps/bin/Debug/ShowMyIps.exe
+
+# Screenshot
+![alt tag](https://github.com/doonfrs/showmyips/raw/master/screenshot.jpg)
